@@ -1,0 +1,11 @@
+.block {
+  width: 130px;
+  height: 130px;
+  background-color: #2196f3;
+  transition: 1s;
+}
+
+.block:hover {
+  width: 230px;
+  background-color: #3f51b5;
+}
